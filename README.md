@@ -9,3 +9,7 @@ npm start
 Go to localhost:3000
 ```
 
+##EC2
+```
+APP link: http://ec2-13-234-238-25.ap-south-1.compute.amazonaws.com:3000/
+```
